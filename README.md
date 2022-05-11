@@ -17,7 +17,17 @@
   - :six: 数据库使用者 - mysql、sqlite、mongodb、redis ...
   - :seven: Docker爱好者 - 容器、运维部署 ...
 
-![Jusheng's github stats](https://github-readme-stats.vercel.app/api?username=YaoJusheng&show_icons=true&theme=radical)
+---
+
+:anchor: Statistics:
+
+![Jusheng's github stats](https://github-readme-stats.vercel.app/api?username=YaoJusheng&show_icons=true&theme=tokyonight)
+
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaoJusheng&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+---
 
 <!--
 **YaoJusheng/YaoJusheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
