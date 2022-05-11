@@ -1,4 +1,23 @@
-### Hi there 👋
+#### 👋 Hi there
+---
+
+:speech_balloon: **[about me](https://yaojusheng.github.io/resume):**
+
+- :man: 简介: 一个普通的全职开发者, 喜欢安静舒适的环境 :no_smoking: ...
+- :cn: 籍贯: 中国 江苏
+- :house: 现居地址: 中国 上海
+- :envelope: email: jusheng_yao@outlook.com
+- :book: 个人博客地址: [github](https://yaojusheng.github.io/)、[gitee](https://yaojusheng.gitee.io/blog/)、[CSDN](https://blog.csdn.net/weixin_41599858?type=blog)
+- :maple_leaf: 技术方向:
+  - :one: Linux爱好者 - Centos、Ubuntu ...
+  - :two: Python开发者 - 工具开发、数据分析、Web、爬虫、GUI ...
+  - :three: Ruby开发者 - Web、工具 ...
+  - :four: Shell开发者 - 脚本工具
+  - :five: PHP/前端/Go 初学者
+  - :six: 数据库使用者 - mysql、sqlite、mongodb、redis ...
+  - :seven: Docker爱好者 - 容器、运维部署 ...
+
+![Jusheng's github stats](https://github-readme-stats.vercel.app/api?username=YaoJusheng&show_icons=true&theme=radical)
 
 <!--
 **YaoJusheng/YaoJusheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
