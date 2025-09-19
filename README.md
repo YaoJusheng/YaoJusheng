@@ -13,22 +13,30 @@
   - :two: Python开发者 - 工具开发、数据分析、Web、爬虫、GUI ...
   - :three: Go/Ruby开发者 - Web、工具 ...
   - :four: Shell开发者 - 脚本工具
-  - :five: PHP/前端 初学者
-  - :six: 数据库使用者 - mysql、sqlite、mongodb、redis ...
+  - :five: PHP/前端
+  - :six: 数据库 - mysql、sqlite、mongodb、redis ...
   - :seven: Docker爱好者 - 容器、运维部署 ...
 
 ---
 
 :anchor: Statistics:
-
-![Jusheng's github stats](https://github-readme-stats.vercel.app/api?username=YaoJusheng&show_icons=true&theme=tokyonight)
-
 <!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaoJusheng&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Jusheng's github stats](https://github-readme-stats-livid-six.vercel.app/api?username=YaoJusheng&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats-livid-six.vercel.app/api/top-langs/?username=YaoJusheng&layout=compact&theme=blue-green&hide=c,C%2B%2B,tex,ncl,plpgsql,hack,Jupyter%20Notebook,html,css,scss&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 -->
+
+<div style="display:flex;justify-content:space-between;">
+  <img width="52%" height="350" src="https://github-readme-stats-livid-six.vercel.app/api?username=YaoJusheng&show_icons=true&theme=tokyonight" />
+  &emsp;
+  <img width="40%" height="220" src="https://github-readme-stats-livid-six.vercel.app/api/top-langs/?username=YaoJusheng&layout=compact&theme=blue-green&hide=c,C%2B%2B,tex,ncl,plpgsql,hack,Jupyter%20Notebook,php,mako,powershell,vim%20script,makefile,dockerfile,html,css,scss&langs_count=8" />
+</div>
 
 ---
 
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaoJusheng&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+-->
 <!--
 **YaoJusheng/YaoJusheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
