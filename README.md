@@ -29,7 +29,7 @@
 <div style="display:flex;justify-content:space-between;">
   <img width="52%" height="350" src="https://github-readme-stats-livid-six.vercel.app/api?username=YaoJusheng&show_icons=true&theme=tokyonight" />
   &emsp;
-  <img width="40%" height="220" src="https://github-readme-stats-livid-six.vercel.app/api/top-langs/?username=YaoJusheng&layout=compact&theme=blue-green&hide=c,C%2B%2B,tex,ncl,plpgsql,hack,Jupyter%20Notebook,php,mako,powershell,vim%20script,makefile,dockerfile,html,css,scss&langs_count=8" />
+  <img width="40%" height="220" src="https://github-readme-stats-livid-six.vercel.app/api/top-langs/?username=YaoJusheng&layout=compact&theme=blue-green&hide=c,C%2B%2B,tex,ncl,plpgsql,hack,Jupyter%20Notebook,php,mako,powershell,vim%20script,makefile,dockerfile,html,css,scss&langs_count=8&exclude_repo=github-readme-stats,YaoJusheng.github.io,Django-2-by-Example,python-django-demo,python-tornado-demo，prometheus_flask_exporter,coder2gwy,blog_photos,gitbook,images_store,utterances,webBook,dynamic-resume,resume,hexo-theme-diaspora,hexo-theme-landscape,hexo-theme-icarus,hexo-theme-yilia-plus,hexo-theme-next,php-demo,phpStudy,Exercise" />
 </div>
 
 ---
